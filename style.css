@@ -21,10 +21,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
-.section-title span {
-    color: tomato;
-}
-
 #sobre-o-restaurante {
     background-color: #ffeae6;
+}
+
+.text-colored {
+    color: tomato;
 }
