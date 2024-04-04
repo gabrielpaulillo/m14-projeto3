@@ -1,0 +1,30 @@
+.navbar {
+    background-color: tomato;
+}
+
+.nav .nav-link.active {
+    background-color: #fff;
+    color: tomato;
+}
+
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #ffeae6;
+}
+
+.section-title {
+    font-family: 'Poppins', sans-serif;
+}
+
+.section-title span {
+    color: tomato;
+}
+
+#sobre-o-restaurante {
+    background-color: #ffeae6;
+}
